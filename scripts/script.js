@@ -1,13 +1,13 @@
 // variable
 const audioList = [
-  // new Audio("audio/gululu.mp3"),
-  // new Audio("audio/gururu.mp3"),
-  // new Audio("audio/yhdl.mp3"),
-  // new Audio("audio/zqq.mp3"),
-  // new Audio("audio/kuruto.mp3"),
-  // new Audio("audio/kuru1.mp3"),
-  // new Audio("audio/kuru2.mp3"),
-  // new Audio("audio/zqql.mp3"),
+  new Audio("audio/gululu.mp3"),
+  new Audio("audio/gururu.mp3"),
+  new Audio("audio/yhdl.mp3"),
+  new Audio("audio/zqq.mp3"),
+  new Audio("audio/kuruto.mp3"),
+  new Audio("audio/kuru1.mp3"),
+  new Audio("audio/kuru2.mp3"),
+  new Audio("audio/zqql.mp3"),
 ];
 
 for (const audio of audioList) {
